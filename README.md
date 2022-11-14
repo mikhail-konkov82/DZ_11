@@ -40,6 +40,8 @@
 
     task4_graph()
 ```
+![Figure_1](https://user-images.githubusercontent.com/109690127/201589241-f55d7b9c-87f3-4acf-b1f0-09fcb1c4051f.png)
+
 ### 5. Вычислить вершину
 ```
     Количество вершин бесконечное множество
